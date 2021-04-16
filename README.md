@@ -3,6 +3,7 @@ ETL With LUIGI
 This file is my submission for task from blankspace.io week 1 about ETL process with luigi.
 
 1. Installation Instruction 
+
     a. Download 4 folder source in this github an place to your computer in one folder  
     
     b. Make sure you have all package pyhton for this program (see details in requirement.txt)
@@ -12,6 +13,7 @@ This file is my submission for task from blankspace.io week 1 about ETL process 
     d. set your variable environtment variabel add sytem variabel set variabel name PYTHONPATH and variable value to path your copy folder
    
 2. How to use 
+
     a. After complete installation step, open folder and run the file python etl_pipeline_[reviews/xls/disaster/json)
     
     b. Change variabel host, user, password to your Mysql environtment
