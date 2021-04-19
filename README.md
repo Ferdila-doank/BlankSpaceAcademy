@@ -1,6 +1,6 @@
 # **ETL Json**
 
-
+![Capture](https://user-images.githubusercontent.com/55681442/115311115-4aaf4200-a199-11eb-87b9-cc0e79f5047a.JPG)
 
 This file is my submission for self learning 1 from blankspace.io week 1 about ETL process to extract data from many json file and combine in 1 file json with spesific column name.
 
