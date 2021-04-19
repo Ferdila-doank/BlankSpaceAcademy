@@ -60,3 +60,4 @@ def ETLJson(pathfile,pathdest):
 ETLJson(pathfile="D:/BlankSpace.io/Code BlankSpace.io/SelfLearning1/movies.zip", \
         pathdest="D:/BlankSpace.io/Code BlankSpace.io/SelfLearning1/JsonExtract.json" \
         )
+# Change pathfile to source file (movies.zip) and path dest to folder to save json file
