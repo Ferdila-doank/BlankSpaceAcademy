@@ -19,3 +19,4 @@ This file is my submission for self learning 1 from blankspace.io week 1 about E
     b. change argument in JsonExtract.py. pathfile to path file movies.zip and pathdest is path for output JSON
     
     c. After this program complete run you will found 1 json file in pathdest
+       If you want to see files output download JsonExtract.7z
