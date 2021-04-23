@@ -27,32 +27,25 @@ c. set new project in google cloud platform and make composer elemen set up usin
        
 ![image](https://user-images.githubusercontent.com/55681442/115839939-5b83e000-a445-11eb-84c7-b654b92209b3.png)
 
-d. go to google bigquery and create dataset browsing 
+d. go to google bigquery and create dataset sumTransaction 
         
-![image](https://user-images.githubusercontent.com/55681442/115840319-bd444a00-a445-11eb-9566-1c401e6cc357.png)
+![image](https://user-images.githubusercontent.com/55681442/115866309-af9dbd00-a463-11eb-8b9f-69d8c30a9008.png)
         
-e. in dataset browsing create table Keyword, KeywordTemp and MostSearch
+e. in dataset browsing create table Transaction, Transactiontemp
         
-![image](https://user-images.githubusercontent.com/55681442/115840494-f54b8d00-a445-11eb-9ea5-32260ba57f48.png)
+![image](https://user-images.githubusercontent.com/55681442/115866447-df4cc500-a463-11eb-9fca-ebf9c23e27c7.png)
 
-![image](https://user-images.githubusercontent.com/55681442/115840597-0c8a7a80-a446-11eb-9e65-d8e48485b7a0.png)
-        
-![image](https://user-images.githubusercontent.com/55681442/115840676-2035e100-a446-11eb-8081-9c532826ad9c.png)
+![image](https://user-images.githubusercontent.com/55681442/115866515-f4c1ef00-a463-11eb-9a78-20ca2b1c6daf.png)
     
 f. Create folder GCP and copy file from folder 01 Credentials GCP and 02 python for process DAG to this folder and upload to home data irflow. 
    for password folder 01 Credentials GCP please contact me.  
         
-![image](https://user-images.githubusercontent.com/55681442/115841221-c5e95000-a446-11eb-89bd-01077a6b6253.png)
+![image](https://user-images.githubusercontent.com/55681442/115866696-3b174e00-a464-11eb-99cd-686a94b9e404.png)
 
-g. copy file from folder 03 DAG Files (DAG_01.py) to folder DAG air flow
+g. copy file from folder 03 DAG Files (DAG_02.py) to folder DAG air flow
     
-![image](https://user-images.githubusercontent.com/55681442/115841820-62abed80-a447-11eb-96ac-04781ba74931.png)
+![image](https://user-images.githubusercontent.com/55681442/115866762-51bda500-a464-11eb-8114-a93c4d126b19.png)
         
-h. rename folder 04 Keyword_search to Keyword_search and upload to google cloud storage 
-
-![image](https://user-images.githubusercontent.com/55681442/115845209-d26fa780-a44a-11eb-81f2-efce552c51d4.png)
-
-
 ## 2. How to use 
 
 a. Goto airflow webserver from composer you have create before 
