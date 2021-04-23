@@ -25,7 +25,7 @@ c. set new project in google cloud platform and make composer elemen set up usin
        
        Web server machine type : composer-n1-webserver-2 (2 vCPU, 1.6 GB memory)
        
-![image](https://user-images.githubusercontent.com/55681442/115839939-5b83e000-a445-11eb-84c7-b654b92209b3.png)
+![image](https://user-images.githubusercontent.com/55681442/115867077-cc86c000-a464-11eb-97b2-35dcfcd1da09.png)
 
 d. go to google bigquery and create dataset sumTransaction 
         
@@ -62,4 +62,4 @@ c. if dag completed you will get green circle in DAG run field
 
 d. in google big query you will see table keyword and most search fill from txt source in bucket
         
-![image](https://user-images.githubusercontent.com/55681442/115843175-c1259b80-a448-11eb-92e5-9e7b35c64649.png)
+![image](https://user-images.githubusercontent.com/55681442/115867243-0657c680-a465-11eb-875d-3603b050e237.png)
