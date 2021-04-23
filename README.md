@@ -52,7 +52,7 @@ a. Goto airflow webserver from composer you have create before
     
 ![image](https://user-images.githubusercontent.com/55681442/115842031-9edf4e00-a447-11eb-946a-e23220f48106.png)
         
-![image](https://user-images.githubusercontent.com/55681442/115842297-e1088f80-a447-11eb-91e8-2fa5448bb3fb.png)
+![image](https://user-images.githubusercontent.com/55681442/115866881-89c4e800-a464-11eb-9eb3-0d0aea2e3683.png)
         
 b. try to running manual DAG using trigger dag
     
