@@ -3,19 +3,26 @@
 ![image](https://user-images.githubusercontent.com/55681442/115102355-8ddc9b80-9f74-11eb-9764-76dbdf3e89e2.png)
 
 This file is my submission for task from blankspace.io week 2 about ETL process with google cloud platform.
-1. Installation Instruction 
 
-    a. Download 3 folder source in this github an place to your computer in one folder  
+## 1. Installation Instruction 
+
+### a. Download 3 folder source in this github an place to your computer in one folder  
     
-    b. Make sure you have all package pyhton for this program (see details in requirement.txt)
+### b. Make sure you have all package pyhton for this program (see details in requirement.txt)
     
-    c. set new project in google cloud platform and make composer elemen set up using this parameter.
+### c. set new project in google cloud platform and make composer elemen set up using this parameter.
        Location : asia-south1
+       
        Zone : asia-south1-a
+       
        Node count : 3
+       
        Disk size (GB) : 20
+       
        Machine type : n1-standard-1
+       
        Cloud SQL machine type : db-n1-standard-2 (2 vCPU, 7.5 GB memory)
+       
        Web server machine type : composer-n1-webserver-2 (2 vCPU, 1.6 GB memory)
        
 ![image](https://user-images.githubusercontent.com/55681442/115839939-5b83e000-a445-11eb-84c7-b654b92209b3.png)
