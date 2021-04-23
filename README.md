@@ -3,8 +3,7 @@
 ![image](https://user-images.githubusercontent.com/55681442/115102355-8ddc9b80-9f74-11eb-9764-76dbdf3e89e2.png)
 
 This file is my submission for task from blankspace.io week 2 about ETL process with google cloud platform.
-
-## 1. Installation Instruction 
+1. Installation Instruction 
 
     a. Download 3 folder source in this github an place to your computer in one folder  
     
@@ -43,7 +42,7 @@ This file is my submission for task from blankspace.io week 2 about ETL process 
         ![image](https://user-images.githubusercontent.com/55681442/115841820-62abed80-a447-11eb-96ac-04781ba74931.png)
         
           
-## 2. How to use 
+2. How to use 
 
     a. Goto airflow webserver from composer you have create before 
     
