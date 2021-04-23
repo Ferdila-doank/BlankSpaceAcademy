@@ -1,4 +1,4 @@
-# **ETL Using Google Cloud Platform and Airflow **
+# **ETL Using Google Cloud Platform and Airflow**
 
 This file is my submission for task from blankspace.io week 2 about ETL process with google cloud platform and airflow. 
 In this task i try to make ETL process from bucket in google strorage and transform to google big query dataset and 
