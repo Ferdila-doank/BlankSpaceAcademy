@@ -1,8 +1,8 @@
-# **ETL With LUIGI**
+# **ETL Using Google Cloud Platform and Airflow **
 
-![image](https://user-images.githubusercontent.com/55681442/115102355-8ddc9b80-9f74-11eb-9764-76dbdf3e89e2.png)
-
-This file is my submission for task from blankspace.io week 2 about ETL process with google cloud platform.
+This file is my submission for task from blankspace.io week 2 about ETL process with google cloud platform and airflow. 
+In this task i try to make ETL process from bucket in google strorage and transform to google big query dataset and 
+make scheduler with airflow to processing ETL.
 
 ## 1. Installation Instruction 
 
