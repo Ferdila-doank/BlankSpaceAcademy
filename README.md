@@ -48,7 +48,11 @@ g. copy file from folder 03 DAG Files (DAG_01.py) to folder DAG air flow
     
 ![image](https://user-images.githubusercontent.com/55681442/115841820-62abed80-a447-11eb-96ac-04781ba74931.png)
         
-          
+h. rename folder 04 Keyword_search to Keyword_search and upload to google cloud storage 
+
+![image](https://user-images.githubusercontent.com/55681442/115845209-d26fa780-a44a-11eb-81f2-efce552c51d4.png)
+
+
 ## 2. How to use 
 
 a. Goto airflow webserver from composer you have create before 
