@@ -58,8 +58,8 @@ b. try to running manual DAG using trigger dag
     
 c. if dag completed you will get green circle in DAG run field 
     
-![image](https://user-images.githubusercontent.com/55681442/115842793-5f653180-a448-11eb-9c20-a5945172b016.png)
+![image](https://user-images.githubusercontent.com/55681442/115978038-30190680-a5a7-11eb-838e-6647feb10218.png)
 
-d. in google big query you will see table keyword and most search fill from txt source in bucket
+d. in google big query you will see table transaction and transactiontemp fill from blankspace table events
         
 ![image](https://user-images.githubusercontent.com/55681442/115978004-e3353000-a5a6-11eb-9c42-554562aa4e33.png)
