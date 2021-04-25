@@ -62,4 +62,4 @@ c. if dag completed you will get green circle in DAG run field
 
 d. in google big query you will see table keyword and most search fill from txt source in bucket
         
-![image](https://user-images.githubusercontent.com/55681442/115867243-0657c680-a465-11eb-875d-3603b050e237.png)
+![image](https://user-images.githubusercontent.com/55681442/115978004-e3353000-a5a6-11eb-9c42-554562aa4e33.png)
