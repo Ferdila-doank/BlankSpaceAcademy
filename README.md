@@ -25,7 +25,7 @@ c. set new project in google cloud platform and make composer elemen set up usin
        
        Web server machine type : composer-n1-webserver-2 (2 vCPU, 1.6 GB memory)
        
-![image](https://user-images.githubusercontent.com/55681442/115867077-cc86c000-a464-11eb-97b2-35dcfcd1da09.png)
+![image](https://user-images.githubusercontent.com/55681442/115978097-7c644680-a5a7-11eb-8f69-b1dbf5507f97.png)
 
 d. go to google bigquery and create dataset sumTransaction 
         
@@ -58,8 +58,8 @@ b. try to running manual DAG using trigger dag
     
 c. if dag completed you will get green circle in DAG run field 
     
-![image](https://user-images.githubusercontent.com/55681442/115842793-5f653180-a448-11eb-9c20-a5945172b016.png)
+![image](https://user-images.githubusercontent.com/55681442/115978065-53dc4c80-a5a7-11eb-9e11-fd5f6071d203.png)
 
-d. in google big query you will see table keyword and most search fill from txt source in bucket
+d. in google big query you will see table transaction and transactiontemp fill from blankspace table events
         
-![image](https://user-images.githubusercontent.com/55681442/115867243-0657c680-a465-11eb-875d-3603b050e237.png)
+![image](https://user-images.githubusercontent.com/55681442/115978004-e3353000-a5a6-11eb-9c42-554562aa4e33.png)
