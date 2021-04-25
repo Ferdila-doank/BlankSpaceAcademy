@@ -58,7 +58,7 @@ b. try to running manual DAG using trigger dag
     
 c. if dag completed you will get green circle in DAG run field 
     
-![image](https://user-images.githubusercontent.com/55681442/115978038-30190680-a5a7-11eb-838e-6647feb10218.png)
+![image](https://user-images.githubusercontent.com/55681442/115978065-53dc4c80-a5a7-11eb-9e11-fd5f6071d203.png)
 
 d. in google big query you will see table transaction and transactiontemp fill from blankspace table events
         
