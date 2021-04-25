@@ -25,7 +25,7 @@ c. set new project in google cloud platform and make composer elemen set up usin
        
        Web server machine type : composer-n1-webserver-2 (2 vCPU, 1.6 GB memory)
        
-![image](https://user-images.githubusercontent.com/55681442/115867077-cc86c000-a464-11eb-97b2-35dcfcd1da09.png)
+![image](https://user-images.githubusercontent.com/55681442/115978097-7c644680-a5a7-11eb-8f69-b1dbf5507f97.png)
 
 d. go to google bigquery and create dataset sumTransaction 
         
