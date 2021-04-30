@@ -4,6 +4,8 @@ This file is my submission for task from blankspace.io week 3 about ETL process 
 In this case try to make pipeline to processing data from local strorage to google cloud storage without writing script 
 repeatedly
 
+![image](https://user-images.githubusercontent.com/55681442/116688759-5690d480-a9e1-11eb-96d0-2c0357f60589.png)
+
 ## 1. Installation Instruction 
 
 a. Download 4 folder source in this github an place to your computer in one folder  
