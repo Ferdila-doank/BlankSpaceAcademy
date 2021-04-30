@@ -1,9 +1,10 @@
 Requirements :
 1. Python min. version 3.7
 2. Python Package :
-	- Pandas
-	- gcsfs
-	- google-cloud-bigquery 
-	- pandas-gbq 
+	- google-cloud-storage
+	- gcloud
+	- httplib2==0.15.0 
+	- google-api-python-client==1.6
+	- pandas
   - pyarrow
- 3. Google cloud platform
+ 3. Google cloud platform (Dataproc)
