@@ -1,8 +1,9 @@
-# **ETL Json**
+# **Streaming with PubSub, Dataflow and FAST API**
 
 ![Capture](https://user-images.githubusercontent.com/55681442/115311115-4aaf4200-a199-11eb-87b9-cc0e79f5047a.JPG)
 
-This file is my submission for self learning 1 from blankspace.io week 1 about ETL process to extract data from many json file and combine in 1 file json with spesific column name requirement.
+This file is my submission for week 4 from blankspace.io academi. This task is about how to create ETL to maintain request from user to editing database.
+we build API using FAST API for user request modifying database and use pub sub to create stream process to big query.
 
 ## 1. Installation Instruction 
 
