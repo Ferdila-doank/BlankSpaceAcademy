@@ -1,0 +1,12 @@
+Requirements :
+1. Python min. version 3.6
+2. Python Package :
+	- fastapi
+	- pydantic
+	- pubsub_v1 
+	- json 
+	- bigquery
+	- google.oauth
+	- pandas_gbq
+	- gcsfs
+3. MySQL min. version 8.0.18
