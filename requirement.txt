@@ -1,5 +1,0 @@
-Requirements :
-1. Python min. version 3.6
-2. Python Package :
-	- Zipfile
-	- pandas
