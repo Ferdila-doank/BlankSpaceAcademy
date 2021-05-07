@@ -34,23 +34,41 @@ b. Open browser and use this url **http://127.0.0.1:8000/docs**
 c. Make POST request using this sample structure.
 
 [
+
     {
+    
         "operation": "insert",
+        
         "table": "table1",
+        
         "col_names": ["a","b","c"],
+        
         "col_types": ["INTEGER","TEXT","TEXT"],
+        
         "col_values": [1,"Backup and Restore", "2018-03-27 11:58:28.988414"]
+        
         },
+        
     {
+    
         "operation": "delete",
+        
         "table": "table1",
+        
         "old_value": 
+        
             {
+            
                 "col_names": ["a", "c"],
+                
                 "col_types": ["INTEGER", "TEXT"],
+                
                 "col_values": [3, "2019-04-28 10:24:30.183414"]
+                
             }
+            
     }
+    
 ]
 
 d. Data in pubsub dataset will be change after POST request sending
