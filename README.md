@@ -6,18 +6,16 @@ This file is my submission for week 4 from blankspace.io academi. This task is a
 we build API using FAST API for user request modifying database and use pub sub to create stream process to big query.
 
 ## 1. Installation Instruction 
+a. Download Gatekeeper.py, extract in one folder
+    
+b. Make sure you have all package pyhton for this program (see details in requirement.txt)
 
-    a. Download JsonExtract.py and movies.zip (link in movies link file.txt) in this github an place to your computer in one folder  
-    
-    b. Make sure you have all package pyhton for this program (see details in requirement.txt)
-    
-    c. Don't extract movies.zip
    
 ## 2. How to use 
 
-    a. After complete installation step, open folder and run the file python JsonExtract.py
+a. After complete installation step, open folder and run the file using command uvicorn gatekeeper:app --reload
     
-    b. change argument in JsonExtract.py. pathfile to path file movies.zip and pathdest is path for output JSON
+b. change argument in JsonExtract.py. pathfile to path file movies.zip and pathdest is path for output JSON
     
-    c. After this program complete run you will found 1 json file in pathdest
-       If you want to see files output download JsonExtract.7z
+c. After this program complete run you will found 1 json file in pathdest
+   If you want to see files output download JsonExtract.7z
